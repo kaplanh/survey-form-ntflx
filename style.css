@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-image: url('./img/netflix-background-image.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#conteiner{
+max-width: 1200px;
+background-color: rgba(0,0,0,0.5);
+margin: 30px auto;
+  
+}
+
+
+
+
+.survey-form-conteiner{
+  background-color: rgba(0, 0, 0, 0.861);
+  width: 33%;
+}
