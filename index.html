@@ -16,7 +16,6 @@
       </header>
       <section class="survey-form-conteiner">
         <form action="./result.html">
-
           <div class="input-box">
             <label for="name">Name</label>
             <br />
@@ -29,7 +28,14 @@
           </div>
           <div class="input-box">
             <label for="age">Age</label><br />
-            <input type="number" name="age" id="age" placeholder="age" />
+            <input
+              type="number"
+              name="age"
+              id="age"
+              placeholder="age"
+              min="1"
+              max="10"
+            />
           </div>
           <div class="input-box">
             <label for="email">Email</label><br />
@@ -42,14 +48,40 @@
           </div>
           <div class="input-box">
             <label for="dropdown">Content Type</label>
-            <br>
+            <br />
             <select name="content" id="dropdown">
-              <option value="">Movies</option>
-              <option value="">Series</option>
-              <option value="" selected>TV Shows</option>
+              <option value="movies">Movies</option>
+              <option value="series">Series</option>
+              <option value="tv-shows" selected>TV Shows</option>
             </select>
           </div>
 
+          <div class="input-box" id="checkbox">
+            <label for="">Movie Type</label>
+            <br />
+            <input type="checkbox" name="" id="comedy" />
+            <label for="comedy">Comedy</label>
+            <br />
+            <input type="checkbox" name="" id="action" />
+            <label for="action">Action</label>
+            <br />
+            <input type="checkbox" name="" id="romance" />
+            <label for="romance">Romance</label>
+          </div>
+          <div class="input-box" id="radio">
+            <label for="">Gender</label>
+            <br />
+            <input type="radio" name="gender" id="first-radio" value="Male" />
+            <label for="first-radio">Male</label>
+            <br />
+            <input type="radio" name="gender" id="second-radio"
+              value="female"
+            />
+            <label for="second-radio">Female</label>
+            <br />
+            <input type="radio" name="gender" id="third-radio" value="other" />
+            <label for="third-radio">Other</label>
+          </div>
         </form>
       </section>
     </div>
