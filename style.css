@@ -14,7 +14,7 @@ body{
   /* min-height: 100vh; */
 }
 
-#conteiner{
+#container{
 max-width: 1200px;
 background-color: rgba(0,0,0,0.5);
 margin: 30px auto;
@@ -35,7 +35,7 @@ span{
   color: red;
 }
 
-.survey-form-conteiner {
+.survey-form-container {
   width: 500px;
   background-color: rgba(0, 0, 0, 0.8);
   margin: auto;
