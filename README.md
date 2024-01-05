@@ -34,6 +34,8 @@ The aim is to create a functional Survey Form
 
 - HTML Form Elements
 
+- HTML Table Elements 
+
 - CSS Colors-Border Properties
 
 - CSS Margins-Padding
