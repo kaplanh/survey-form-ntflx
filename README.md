@@ -16,13 +16,11 @@ Project aims to create survey form within html and css.
 ## Project Skeleton 
 ```
 001-survey-form (folder)
-|
+|               
 |----readme.md
 |----index.html  
 |----style.css   
-|----result.html              
-
-        
+|----result.html 
 ```
 ## Objective
 
@@ -33,8 +31,6 @@ The aim is to create a functional Survey Form
 - HTML Forms-Input Types 
 
 - HTML Form Elements
-
-- HTML Table Elements 
 
 - CSS Colors-Border Properties
 
