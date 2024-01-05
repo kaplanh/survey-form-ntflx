@@ -1,4 +1,6 @@
 # Project-001:Survey Form
+[Click Me!](https://kaplanh.github.io/survey-form-ntflx/)
+![netflix-survey-form](https://github.com/kaplanh/survey-form-ntflx/assets/101884444/2ee88335-5faf-4ed1-8b97-0f8071855867)
 ## Description
 Project aims to create survey form within html and css.
 
@@ -66,8 +68,3 @@ The aim is to create a functional Survey Form
 - Deploy your application on Github template to showcase your app within your team.
 
 <center> &#8987; Happy Coding  &#9997; </center>
-
-[Click Me!](https://kaplanh.github.io/survey-form-ntflx/)
-![netflix-survey-form](https://github.com/kaplanh/survey-form-ntflx/assets/101884444/2ee88335-5faf-4ed1-8b97-0f8071855867)
-
-
